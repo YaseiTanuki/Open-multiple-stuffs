@@ -18,4 +18,4 @@ This program is used to open 2 or more programs. For example: open your browser 
 4. Run the `Run.exe` to start programs.
 
 ## LICENSE
-Unlicense
+[Unlicense](https://github.com/YaseiTanuki/Open-multiple-stuffs/blob/main/LICENSE)
